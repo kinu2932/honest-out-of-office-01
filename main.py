@@ -9,7 +9,7 @@ a manager would let stand, and a reader would quote.
 import os
 
 TEXT = (
-    "Thank you for your email \u2014 I'm away until Monday and not checking "
+    "Thank you for your email \u2014 I'm away until Monday and honestly not checking "
     "my inbox, which will be a mountain when I return, so I'll answer the "
     "urgent ones first and let the rest retire quietly."
 )
