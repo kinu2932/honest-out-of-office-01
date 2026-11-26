@@ -9,9 +9,9 @@ a manager would let stand, and a reader would quote.
 import os
 
 TEXT = (
-    "Thank you for your email \u2014 I'm away until Monday and honestly not checking "
-    "my inbox, which will be a mountain when I return, so I'll answer the "
-    "urgent ones first and let the rest retire quietly."
+    "Away until Monday, actively not reading email \u2014 by then it\u2019ll be a "
+    "landslide of 400 unread messages, and I will answer the ones that scream "
+    "loudest while the rest fossilise politely under the rubble."
 )
 
 def main():
